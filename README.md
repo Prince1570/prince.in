@@ -1,2 +1,1 @@
-# prince.in.github.i
-
+# https://prince1570.github.io/princein/
